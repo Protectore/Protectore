@@ -4,6 +4,7 @@
 - 💞️ It will be interesting to take part in different projects, especially gamedev related
 - 📫 How to reach me: kostyagazalov@mail.ru
 
+___________________________________________________________________________________________________
 
 - 👋 Привет, я @Protectore
 - 👀 Я увлекаюсь разработкой игр и различными приколами с кодом
