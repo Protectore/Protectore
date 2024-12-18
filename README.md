@@ -1,16 +1,18 @@
 - 👋 Hi, I’m @Protectore
-- 👀 I’m interested in game developing and different fun coding stuff
-- 🌱 I’m currently studying in University as a 4th grade bachelor at the software engineering
-- 💞️ It will be interesting to take part in different projects, especially gamedev related
+- 👀 Interests: I like to play computer games (especially Valorant and VRChat) and to create different fun stuff, especially if it involves coding
+- 🎓 Education: I finished bachelor degree at software engineering and tried master level degree at game development but found out that to play games is more interesting than developing them.
+- 🤖 Career: Currently work as a middle test automation engineer
+- 🛠️ If you for some reason want me to take part in your project do not hesitate to write :D
 - 📫 How to reach me: kostyagazalov@mail.ru
 
 ___________________________________________________________________________________________________
 
 - 👋 Привет, я @Protectore
-- 👀 Я увлекаюсь разработкой игр и различными приколами с кодом
-- 🌱 На данный момент обучаюсь на четвёртом курсе университета как бакалвар программной инженерии
-- 💞️ Не против принять участие в различных проектах, особенно относительно разработки игр
-- 📫 Связь: kostyagazalov@mail.ru
+- 👀 Интересы: Мне нравится играть в компьютерные игры (особенно в Valorant и VRChat) и создавать различные забавные штуки, особенно если это связано с программированием
+- 🎓 Образование: Закончил бакалавриат по направлению программная инженерия, пробовал учиться в магистратуре на направлении "Технологии разработки компьютерных игр", но понял, что играть в игры интереснее, чем разрабатывать их
+- 🤖 Карьера: В настоящее время работаю в области автоматизации тестирования
+- 🛠️ Если вы по какой-то причине хотите, чтобы я принял участие в вашем проекте, не стесняйтесь писать :D
+- 📫 Как со мной связаться: kostyagazalov@mail.ru
 
 <!---
 Protectore/Protectore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
